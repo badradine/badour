@@ -1,6 +1,6 @@
 print("Hello, World!")
 
-num = 10  # Integer
+num = 5  # Integer
 decimal = 5.5  # Float
 text = "Hello, Python!"  # String
 is_python_fun = True  # Boolean
