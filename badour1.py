@@ -1,12 +1,7 @@
-print("Hello, World!")
 
-num = 5  # Integer
-decimal = 5.5  # Float
-text = "Hello, Python!"  # String
-is_python_fun = True  # Boolean
+n = 8  
+d = 2  
 
-print("Number:", num)
-print("Decimal:", decimal)
-print("Text:", text)
-print("Is Python fun?", is_python_fun)
+z = n/d
+print(z)
 
