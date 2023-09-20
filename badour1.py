@@ -1,7 +1,7 @@
 
-n = 8  
-d = 2  
+n = 5  
+d = 6 
 
-z = n/d
+z = n - d
 print(z)
 
